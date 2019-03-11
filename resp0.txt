@@ -1,0 +1,27 @@
+C:\Users\valeh\Desktop\Lab0>doskey/History
+cd Desktop
+cd Lab0
+git add *
+git commit -m "Subiendo L0"
+git push
+dir
+git add *
+git commit -m "Se sube Lab0"
+cd
+dir
+git push
+git add *
+git commit -m "Subiendo Lab0"
+ git config --global user.email "vahernandez@uc.cl"
+git config --global user.name "ValeriaHernandezB"
+ git push
+git status
+git commit -m "subiendo"
+git status
+git push
+dir
+git status
+git pull
+doskey/History
+
+C:\Users\valeh\Desktop\Lab0>
